@@ -32,3 +32,13 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 <br />
+
+### :zap: GitHub Stats
+
+  <img align="left" alt="Chirag's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Chirag5420&hide=stars&show_icons=true&theme=onedark" />
+
+<br />
+<br />
+
+   <img align="left" alt="Shin's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag5420&layout=compact&theme=onedark" />
+
