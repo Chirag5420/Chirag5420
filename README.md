@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br />
 
 ### Languages and Tools used recently:
-
-<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/72644170/149158079-5d74b78e-6ff2-4d54-bdd0-59fa87fb147a.jpg" />
+<img align="left" alt="IntelliJ IDEA" width="30px" src="https://user-images.githubusercontent.com/72644170/149159770-6cbf8a07-a1da-4c4e-86ba-b25fca98df0e.png" />
+<img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/72644170/149158079-5d74b78e-6ff2-4d54-bdd0-59fa87fb147a.jpg" />
 <br />
 <br />
