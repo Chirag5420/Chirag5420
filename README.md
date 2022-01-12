@@ -21,7 +21,14 @@ Here are some ideas to get you started:
 <br />
 
 ### Languages and Tools used recently:
-<img align="left" alt="IntelliJ IDEA" width="30px" src="https://user-images.githubusercontent.com/72644170/149159770-6cbf8a07-a1da-4c4e-86ba-b25fca98df0e.png" />
-<img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/72644170/149158079-5d74b78e-6ff2-4d54-bdd0-59fa87fb147a.jpg" />
+<img align="left" alt="IntelliJ IDEA" width="26px" src="https://user-images.githubusercontent.com/72644170/149159770-6cbf8a07-a1da-4c4e-86ba-b25fca98df0e.png" />
+<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/72644170/149160668-26f32534-8250-437a-a265-a94d6fb3c69b.png" />
+<img align="left" alt="Spring" width="26px" src="https://user-images.githubusercontent.com/72644170/149161051-8cfbfbd4-5e3c-4801-b6c4-8cab74ba0671.png" />
+<img align="left" alt="Spring Boot" width="26px" src="https://user-images.githubusercontent.com/72644170/149161340-13ceafa8-82af-4103-9b29-ed51c406e63d.png" />
+<img align="left" alt="Hibernate" width="26px" src="https://user-images.githubusercontent.com/72644170/149170105-359f8549-e308-4fdc-8d27-0b6d090f4c96.png" />
+<img align="left" alt="MyBatis" width="26px" src="https://user-images.githubusercontent.com/72644170/149170489-de6fbff5-bbe7-4f97-9373-640ab1e293ed.png" />
+<img align="left" alt="MyBatis" width="26px" src="https://user-images.githubusercontent.com/72644170/149171434-c403c65d-f884-43f3-a71b-33cb059b32a7.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 <br />
