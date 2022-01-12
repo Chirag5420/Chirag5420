@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Java" width="50px" src="https://user-images.githubusercontent.com/72644170/149160668-26f32534-8250-437a-a265-a94d6fb3c69b.png" />
 <img align="left" alt="Spring" width="50px" src="https://user-images.githubusercontent.com/72644170/149161051-8cfbfbd4-5e3c-4801-b6c4-8cab74ba0671.png" />
 <img align="left" alt="Spring Boot" width="50px" src="https://user-images.githubusercontent.com/72644170/149161340-13ceafa8-82af-4103-9b29-ed51c406e63d.png" />
-<img align="left" alt="Hibernate" width="75px" src="https://user-images.githubusercontent.com/72644170/149170105-359f8549-e308-4fdc-8d27-0b6d090f4c96.png" />
+<img align="left" alt="Hibernate" width="50px" src="https://user-images.githubusercontent.com/72644170/149170105-359f8549-e308-4fdc-8d27-0b6d090f4c96.png" />
 <img align="left" alt="MyBatis" width="50px" src="https://user-images.githubusercontent.com/72644170/149170489-de6fbff5-bbe7-4f97-9373-640ab1e293ed.png" />
 <img align="left" alt="MyBatis" width="50px" src="https://user-images.githubusercontent.com/72644170/149171434-c403c65d-f884-43f3-a71b-33cb059b32a7.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
