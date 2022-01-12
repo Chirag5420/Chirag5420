@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 <img align="left" alt="Java" width="50px" src="https://user-images.githubusercontent.com/72644170/149160668-26f32534-8250-437a-a265-a94d6fb3c69b.png" />
 <img align="left" alt="Spring" width="50px" src="https://user-images.githubusercontent.com/72644170/149161051-8cfbfbd4-5e3c-4801-b6c4-8cab74ba0671.png" />
 <img align="left" alt="Spring Boot" width="50px" src="https://user-images.githubusercontent.com/72644170/149161340-13ceafa8-82af-4103-9b29-ed51c406e63d.png" />
-<img align="left" alt="Hibernate" width="50px" src="https://user-images.githubusercontent.com/72644170/149173468-63895b46-55a0-4af4-85b5-5a06e3c38579.png" />
+<img align="left" alt="Hibernate" width="30px" src="https://user-images.githubusercontent.com/72644170/149173468-63895b46-55a0-4af4-85b5-5a06e3c38579.png" />
 <img align="left" alt="MyBatis" width="50px" src="https://user-images.githubusercontent.com/72644170/149170489-de6fbff5-bbe7-4f97-9373-640ab1e293ed.png" />
-<img align="left" alt="Thymeleaf" width="50px" src="https://user-images.githubusercontent.com/72644170/149172823-3cbd8f19-bd41-4bad-951e-7cf7065faf2f.png" />
+<img align="left" alt="Thymeleaf" width="30px" src="https://user-images.githubusercontent.com/72644170/149172823-3cbd8f19-bd41-4bad-951e-7cf7065faf2f.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
