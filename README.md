@@ -20,4 +20,8 @@ Here are some ideas to get you started:
 
 <br />
 
+### Languages and Tools used recently:
 
+<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/72644170/149158079-5d74b78e-6ff2-4d54-bdd0-59fa87fb147a.jpg" />
+<br />
+<br />
