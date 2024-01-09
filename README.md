@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other Full Stack Developers to work on some innovative projects and further broaden my skillset
 - 🤔 I’m looking for help with learning and exploring Amazon Web Services and getting certifications
 - 👔 Goal of 2024: Start working as a Full Stack Software Developer and further gain useful insights into the tech industry
-- ⚡ Fun fact: I like analysing market trends and making small long term investments
+- ⚡ Fun fact: I like analysing market trends and know how to blow conch shell
 
 ### Connect with me:
 
